@@ -1,5 +1,5 @@
 ## Paper
- - **Jing Lou**, Huan Wang, Longtao Chen, Qingyuan Xia, Wei Zhu, Mingwu Ren, "Exploiting *CNS* for Salient Object Detection," <!--***SUBMITTED***-->.
+ - **Jing Lou**, Huan Wang, Longtao Chen, Qingyuan Xia, Wei Zhu, Mingwu Ren, "Exploiting *CNS* for Salient Object Detection," *(SUBMITTED)*.
 
  - Project page: [http://www.loujing.com/cns-sod/](http://www.loujing.com/cns-sod/)
 
