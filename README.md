@@ -1,5 +1,5 @@
-## Paper
- - **Jing Lou**, Huan Wang, Longtao Chen, Qingyuan Xia, Wei Zhu, Mingwu Ren, "Exploiting *CNS* for Salient Object Detection," *(SUBMITTED)*.
+## Eprint
+ - **Jing Lou**, Huan Wang, Longtao Chen, Qingyuan Xia, Wei Zhu, Mingwu Ren, "Exploiting Color Name Space for Salient Object Detection," [https://arxiv.org/abs/1703.08912](arXiv:1703.08912 [cs.CV]), pp. 1&ndash;13, 2017.
 
  - Project page: [http://www.loujing.com/cns-sod/](http://www.loujing.com/cns-sod/)
 
