@@ -1,5 +1,5 @@
 ## Paper
- - **`{arXiv eprint}`**&nbsp;&nbsp;**Jing Lou**, Huan Wang, Longtao Chen, Qingyuan Xia, Wei Zhu, Mingwu Ren, "Exploiting Color Name Space for Salient Object Detection," *[arXiv:1703.08912 [cs.CV]](https://arxiv.org/abs/1703.08912)*, pp. 1&ndash;13, 2017.
+ - `{arXiv eprint}`&nbsp;&nbsp;**Jing Lou**, Huan Wang, Longtao Chen, Qingyuan Xia, Wei Zhu, Mingwu Ren, "Exploiting Color Name Space for Salient Object Detection," *[arXiv:1703.08912 [cs.CV]](https://arxiv.org/abs/1703.08912)*, pp. 1&ndash;13, 2017.
 
  - Project page: [http://www.loujing.com/cns-sod/](http://www.loujing.com/cns-sod/)
 
