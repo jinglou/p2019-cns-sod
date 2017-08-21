@@ -5,4 +5,4 @@
 
  - *The developed MATLAB code and all the saliency maps will be made available to the public.*
 
-Copyright (C) 2017 [Jing Lou](http://www.loujing.com)
+Copyright (C) 2017 [Jing Lou (楼竞)](http://www.loujing.com)
