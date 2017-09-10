@@ -3,6 +3,6 @@
 
  - Project page: [http://www.loujing.com/cns-sod/](http://www.loujing.com/cns-sod/)
 
- - *The developed MATLAB code and all the saliency maps will be made available to the public.*
+ - *The developed MATLAB code and all saliency maps will be made available to the public after our manuscript is accepted.*
 
 Copyright (C) 2017 [Jing Lou (楼竞)](http://www.loujing.com)
