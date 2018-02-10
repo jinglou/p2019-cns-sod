@@ -1,5 +1,11 @@
+<div align="center"><img class="aligncenter" src="https://raw.githubusercontent.com/jinglou/p2017-cns-sod/master/figs/fig2.png" alt="Exploiting Color Name Space for Salient Object Detection" title="Exploiting Color Name Space for Salient Object Detection" width="100%"/></div>
+<div text-align="center">Figure 2.  Framework of the proposed CNS model.</div>
+
+<br/>
+<br/>
+
 ## Paper
- - **`{arXiv}`**&nbsp;&nbsp;**Jing Lou**, Huan Wang, Longtao Chen, Qingyuan Xia, Wei Zhu, Mingwu Ren*, "Exploiting Color Name Space for Salient Object Detection," *[arXiv:1703.08912 [cs.CV]](https://arxiv.org/abs/1703.08912)*, pp. 1&ndash;13, 2017.
+ - **Jing Lou**, Huan Wang, Longtao Chen, Qingyuan Xia, Wei Zhu, Mingwu Ren*, "Exploiting Color Name Space for Salient Object Detection," **arXiv preprint**, pp. 1&ndash;13, 2017. [https://arxiv.org/abs/1703.08912](https://arxiv.org/abs/1703.08912)
 
  - Project page: [http://www.loujing.com/cns-sod/](http://www.loujing.com/cns-sod/)
 
