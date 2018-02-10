@@ -1,5 +1,5 @@
 <div align="center"><img class="aligncenter" src="https://raw.githubusercontent.com/jinglou/p2017-cns-sod/master/figs/fig2.png" alt="Exploiting Color Name Space for Salient Object Detection" title="Exploiting Color Name Space for Salient Object Detection" width="100%"/></div>
-<div style="height:5px"></div>
+<div style="height:10px"></div>
 <div align="center">Figure 2.&nbsp;&nbsp;Framework of the proposed CNS model.</div>
 
 <br/>
