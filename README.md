@@ -2,6 +2,7 @@
 <div align="center">Figure 2.&nbsp;&nbsp;Framework of the proposed CNS model.</div>
 
 <br/>
+<br/>
 
 ## Paper
  - **Jing Lou**, Huan Wang, Longtao Chen, Qingyuan Xia, Wei Zhu, Mingwu Ren*, "Exploiting Color Name Space for Salient Object Detection," **arXiv preprint**, pp. 1&ndash;13, 2017. [https://arxiv.org/abs/1703.08912](https://arxiv.org/abs/1703.08912)
