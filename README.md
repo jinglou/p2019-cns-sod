@@ -5,7 +5,7 @@
 <br/>
 
 ## Paper
- - **Jing Lou***, Huan Wang, Longtao Chen, Fenglei Xu, Qingyuan Xia, Wei Zhu, Mingwu Ren*, "Exploiting Color Name Space for Salient Object Detection," **Multimedia Tools and Applications**, 2019.
+ - **Jing Lou***, Huan Wang, Longtao Chen, Fenglei Xu, Qingyuan Xia, Wei Zhu, Mingwu Ren*, "Exploiting Color Name Space for Salient Object Detection," ***Multimedia Tools and Applications***, 2019.
 
  - Project page: [http://www.loujing.com/cns-sod/](http://www.loujing.com/cns-sod/)
 
