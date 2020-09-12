@@ -8,4 +8,4 @@ The saliency maps of the CNS method proposed in the following paper:
 
  - These resources are also available at my [Baidu Cloud (百度网盘)](https://pan.baidu.com/s/1kUByzrx#list/path=%2Fresearch%2Fp2019-cns-sod%2FSalMaps).
 
-Copyright (C) 2016 [Jing Lou (楼竞)](http://www.loujing.com)
+Copyright (C) 2020 [Jing Lou (楼竞)](http://www.loujing.com)
