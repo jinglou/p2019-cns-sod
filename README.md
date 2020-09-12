@@ -1,4 +1,4 @@
-<div align="center"><img class="aligncenter" src="http://www.loujing.com/wp-content/uploads/research/p2019-cns-sod/figs/fig2.png" alt="Exploiting Color Name Space for Salient Object Detection" title="Exploiting Color Name Space for Salient Object Detection" width="100%"/></div>
+<div align="center"><img class="aligncenter" src="https://github.com/jinglou/p2019-cns-sod/blob/master/figs/fig2.png" alt="Exploiting Color Name Space for Salient Object Detection" title="Exploiting Color Name Space for Salient Object Detection" width="100%"/></div>
 <div style="height:20px"></div>
 <div align="center">Figure 2&nbsp;&nbsp;&nbsp;Framework of the proposed CNS model.</div>
 
