@@ -1,6 +1,6 @@
 ## Saliency Maps of CNS
 
-The saliency maps of the CNS method proposed in the following paper:
+The saliency maps of the CNS model proposed in the following paper:
 
  - **Jing Lou***, Huan Wang, Longtao Chen, Fenglei Xu, Qingyuan Xia, Wei Zhu, Mingwu Ren*, "Exploiting Color Name Space for Salient Object Detection," ***Multimedia Tools and Applications***, vol. 79, no. 15, pp. 10873-10897, 2020. [doi:10.1007/s11042-019-07970-x](https://link.springer.com/article/10.1007/s11042-019-07970-x "doi:10.1007/s11042-019-07970-x")
 
