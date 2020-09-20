@@ -14,11 +14,11 @@ Date: Sep 20, 2020
 
 ### Notes:
 
- 1. This algorithm can be run in a row by the command:
+ 1. The code can be run in a row by the command:
  	```matlab
     >> Demo
 	```
 
- 2. This algorithm reads the input images from the folder `<images>` and generates the resultant saliency maps in the folder `<SalMaps>`.
+ 2. The code reads the input images from the folder `<images>` and generates the resultant saliency maps in the folder `<SalMaps>`.
 
  3. We have noted that different versions of MATLAB have substantial influences on the results. In our experiments, the code is run in **MATLAB R2014b** (version 8.4).
