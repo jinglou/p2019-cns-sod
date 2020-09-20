@@ -5,7 +5,7 @@ This code implements the proposed salient/co-salient object detection algorithm 
  - **Jing Lou**, Huan Wang, Longtao Chen, Fenglei Xu, Qingyuan Xia, Wei Zhu, Mingwu Ren, "Exploiting Color Name Space for Salient Object Detection," *Multimedia Tools and Applications*, vol. 79, no. 15, pp. 10873-10897, 2020. doi:10.1007/s11042-019-07970-x
 
  - Project page: [http://www.loujing.com/cns-sod/](http://www.loujing.com/cns-sod/)
- - The zipped file of the developed MATLAB code can be directly downloaded: [CNS.zip](https://raw.githubusercontent.com/jinglou/p2017-hcn-co-sod/master/HCN.zip).
+ - The zipped file of the developed MATLAB code can be directly downloaded: [CNS.zip](https://raw.githubusercontent.com/jinglou/p2019-cns-sod/master/CNS.zip).
 
 Copyright (C) 2020 [Jing Lou (楼竞)](http://www.loujing.com/)
 
