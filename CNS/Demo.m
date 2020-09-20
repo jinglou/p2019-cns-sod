@@ -1,6 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
-% This code implements the proposed salient object detection method in the following paper:
+% This code implements the proposed salient object detection model in the following paper:
 % 
 % Jing Lou*, Huan Wang, Longtao Chen, Fenglei Xu, Qingyuan Xia, Wei Zhu, Mingwu Ren*, 
 % "Exploiting Color Name Space for Salient Object Detection," Multimedia Tools and Applications, 
